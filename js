@@ -50,3 +50,5 @@ window.onclick = function(event) {
   if (event.target === loginModal) window.closeModal('login');
   if (event.target === registerModal) window.closeModal('register');
 };
+
+  
